@@ -1,0 +1,26 @@
+[33mcommit abb2fd571f134001934665b3dcb481d3f40bdd39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mramafooter[m[33m)[m
+Author: juanfran <juanfdeveloper11@gmail.com>
+Date:   Tue Oct 24 11:08:19 2023 -0500
+
+    inserte texto en la rama footer como prueba
+
+ index.html | 16 [32m++++++++++++++++[m
+ 1 file changed, 16 insertions(+)
+
+[33mcommit 762f7ba725c00901775c67a0f5c0599519ffbbbb[m
+Author: juanfran <juanfdeveloper11@gmail.com>
+Date:   Tue Oct 24 10:49:17 2023 -0500
+
+    Agregamos cosas
+
+ index.html | 11 [31m-----------[m
+ 1 file changed, 11 deletions(-)
+
+[33mcommit dcd22db4dcc7f37f0fe104b2754fcac6e8a9bea7[m
+Author: juanfran <juanfdeveloper11@gmail.com>
+Date:   Tue Oct 24 10:39:35 2023 -0500
+
+    Estructura HTML
+
+ index.html | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
